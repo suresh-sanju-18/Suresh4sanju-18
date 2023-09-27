@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suresh</h1>
+<h1 align="center">Hi 👋, I'm Suresh P</h1>
 <h3 align="center">A passionate about Dot Net developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suresh-sanju-18&label=Profile%20views&color=0e75b6&style=flat" alt="suresh-sanju-18" /> </p>
@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/https://devfolio.co/@suresh4dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://devfolio.co/@suresh4dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/p-suresh-b2a9431a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/p-suresh-b2a9431a4" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/suresh.sureshsuresh.5648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/suresh.sureshsuresh.5648" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/itz_suresh_call__me__sanju?igshid=ogq5zdc2odk2za==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/itz_suresh_call__me__sanju?igshid=ogq5zdc2odk2za==" height="30" width="40" /></a>
